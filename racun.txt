@@ -1,0 +1,9 @@
+Datum izvestaja '2023-03-16'
+Sifra proizvoda:001
+Kolicina:1
+ Naziv:Olovke
+------
+Olovke x 1 kom
+
+-------
+Vas racun iznsi 100.0 din
